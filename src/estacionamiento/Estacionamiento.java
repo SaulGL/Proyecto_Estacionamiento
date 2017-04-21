@@ -8,6 +8,7 @@ public class Estacionamiento {
         Inicio i1;
         i1 = new Inicio();
         i1.init(); 
+        System.out.println("Hola Mundo");
         /*
         Cliente i1;
         i1 = new Cliente();
